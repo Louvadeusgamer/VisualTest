@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(rgb(0, 0, 0), rgb(75, 75, 75), rgb(0, 0, 0));
+    background: url(img/bg.png);
     font-family: 'Times new roman';
     p {
         color: rgb(255, 255, 255);
